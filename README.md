@@ -1,1 +1,2 @@
-jagan oma pythoni projekte
+jagan oma DV numbriliste lahendamiste teemalisi pythoni ja jupyteri projekte
+autor: Ander Pavlov
